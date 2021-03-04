@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  position: relative;
+}
+
+
+.table-border {
+  border-color: white;
+}
+
+.table-darkest {
+  color: black;
+}
+
+span {
+  color: #64ffda;
+}
+
+.button-text {
+  text-decoration-color: #64ffda;
+}
+
+.mybg-color {
+  color: white;
+  text-decoration-color: white;
+  background-color: #00aaaa;
+}
+
+.mid-vertical {
+  width: 50px;
+  height: 50px;
+ 
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -18px 0 0 -25px; /* apply negative top and left margins to truly center the element */
+}
